@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Twitch Support
+    url: https://help.twitch.tv/s/contactsupport
+    about: Submit general bugs to Twitch Support.
+  - name: Twitch UserVoice
+    url: https://twitch.uservoice.com/forums/310213-developers
+    about: Use UserVoice for feature requests and suggestions.
