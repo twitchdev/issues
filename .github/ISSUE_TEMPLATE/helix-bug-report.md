@@ -2,7 +2,7 @@
 name: Helix Bug Report
 about: A bug has been found for the API endpoints in the "helix" namespace.
 title: ''
-labels: ''
+labels: 'product: helix'
 assignees: ''
 
 ---

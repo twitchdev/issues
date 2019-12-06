@@ -2,7 +2,7 @@
 name: Extensions Bug Report
 about: A bug has been found with Extensions.
 title: ''
-labels: ''
+labels: 'product: extensions'
 assignees: ''
 
 ---

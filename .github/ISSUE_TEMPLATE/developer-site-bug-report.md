@@ -2,7 +2,7 @@
 name: Developer Site Bug Report
 about: A bug has been found in the developer site (e.g. issues with application management).
 title: ''
-labels: ''
+labels: 'product: dev site'
 assignees: ''
 
 ---
