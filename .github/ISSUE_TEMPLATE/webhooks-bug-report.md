@@ -2,7 +2,7 @@
 name: Webhooks Bug Report
 about: A bug has been found with webhooks.
 title: ''
-labels: ''
+labels: 'product: webhooks'
 assignees: ''
 
 ---
