@@ -6,7 +6,7 @@ Not sure if what you're seeing is a bug? Check with other members of the communi
 
 ## How to file a developer product bug
 1. Make sure that the bug is affecting a third party developer product. If it's a general bug, please file a [Twitch Support ticket](https://help.twitch.tv/s/contactsupport).
-2. Click the `Issues` tab above to get started, or go directly to [https://github.com/twitchdev/bugs/issues](https://www.twitch.tv/p/legal/community-guidelines/).
+2. Click the `Issues` tab above to get started, or go directly to [https://github.com/twitchdev/bugs/issues](https://github.com/twitchdev/bugs/issues).
 3. You will see a list of open issues. Review this list, or use the filters and labels to search for your bug in case it's already been reported. It may also have already been closed.
 4. If the bug is not reported, click the green `New issue` button.
 5. Find the applicable bug report template from this list and click the green `Get started` button. Choosing the right bug report template helps us route the issue to the appropriate product team.
