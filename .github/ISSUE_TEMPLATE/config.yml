@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Developer forums
+  - name: Developer Forums
     url: https://discuss.dev.twitch.tv/
-    about: Before raising a bug here, you may wish to check the forums for a similar issue or open discussion before raising an bug report
+    about: You may wish to check the forums for a similar issue or open discussion before raising an bug report.
   - name: Documentation Feedback and Bug Reports
     url: https://twitch.uservoice.com/forums/310213-developers?category_id=358000
     about: Please use UserVoice for all bug reports and feedback for third party developer documentation.
-  - name: Twitch Support
-    url: https://help.twitch.tv/s/contactsupport
-    about: Submit general bugs to Twitch Support.
   - name: Twitch UserVoice
     url: https://twitch.uservoice.com/forums/310213-developers
     about: Use UserVoice for feature requests and suggestions.
+  - name: Twitch Support
+    url: https://help.twitch.tv/s/contactsupport
+    about: Submit general bugs to Twitch Support.
