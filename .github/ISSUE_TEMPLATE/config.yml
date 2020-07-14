@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Developer Forums
     url: https://discuss.dev.twitch.tv/
-    about: You may wish to check the forums for a similar issue or open discussion before raising an bug report.
+    about: You may wish to check the forums for a similar issue or open discussion before raising a bug report.
   - name: Documentation Feedback and Bug Reports
     url: https://twitch.uservoice.com/forums/310213-developers?category_id=358000
     about: Please use UserVoice for all bug reports and feedback for third party developer documentation.
