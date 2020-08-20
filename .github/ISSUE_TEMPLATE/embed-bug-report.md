@@ -2,7 +2,7 @@
 name: Embed Bug Report
 about: A bug has been found with developer embed features.
 title: ''
-labels: 'product: embed'
+labels: 'product: embeds'
 assignees: ''
 
 ---
