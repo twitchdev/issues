@@ -2,7 +2,7 @@
 name: Developer Rig Bug Report
 about: A bug has been found in the developer rig for helping develop extensions.
 title: ''
-labels: 'product: dev rig'
+labels: 'product: developer rig'
 assignees: ''
 
 ---
