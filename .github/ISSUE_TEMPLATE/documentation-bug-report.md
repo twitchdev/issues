@@ -9,7 +9,7 @@ assignees: ''
 
 **Brief description**
 
-**Expected behavior**
+**Expected documentation**
 
 **Screenshots**
 
