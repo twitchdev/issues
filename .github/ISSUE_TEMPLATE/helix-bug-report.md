@@ -1,5 +1,5 @@
 ---
-name: Twitch API Bug Report
+name: Twitch API
 about: Report a bug related to API endpoints in the "helix" namespace.
 title: ''
 labels: 'product: api'

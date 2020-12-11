@@ -1,5 +1,5 @@
 ---
-name: PubSub Bug Report
+name: PubSub
 about: Report a bug related to the PubSub service
 title: ''
 labels: 'product: pubsub'

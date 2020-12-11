@@ -1,5 +1,5 @@
 ---
-name: V5 API Bug Report
+name: V5 API
 about: Report a bug related to API endpoints in the deprecated "v5" namespace.
 title: ''
 labels: 'product: v5'

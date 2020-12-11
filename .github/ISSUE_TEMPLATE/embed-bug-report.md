@@ -1,5 +1,5 @@
 ---
-name: Embed Bug Report
+name: Twitch Embeds
 about: Report a bug related to Twitch embeds.
 title: ''
 labels: 'product: embeds'

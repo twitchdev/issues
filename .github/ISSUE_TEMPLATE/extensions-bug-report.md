@@ -1,5 +1,5 @@
 ---
-name: Extensions Bug Report
+name: Twitch Extensions
 about: Report a bug with Twitch Extensions.
 title: ''
 labels: 'product: extensions'
