@@ -1,8 +1,8 @@
 ---
-name: Webhooks Bug Report
-about: A bug has been found with webhooks.
+name: EventSub and Webhooks Bug Report
+about: A bug has been found in EventSub or webhooks.
 title: ''
-labels: 'product: webhooks'
+labels: 'product: events'
 assignees: ''
 
 ---
