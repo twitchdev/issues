@@ -1,6 +1,6 @@
 ---
-name: Developer Site Bug Report
-about: A bug has been found in the developer site (e.g. issues with application management).
+name: Developer Site
+about: Report a bug related to the developer site (e.g. issues with application management).
 title: ''
 labels: 'product: dev site'
 assignees: ''

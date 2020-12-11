@@ -1,6 +1,6 @@
 ---
 name: EventSub or Webhooks Bug Report
-about: A bug has been found in EventSub or webhooks.
+about: Report a bug related to EventSub or webhooks.
 title: ''
 labels: 'product: events'
 assignees: ''

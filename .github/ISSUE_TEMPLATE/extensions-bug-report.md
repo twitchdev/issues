@@ -1,6 +1,6 @@
 ---
 name: Extensions Bug Report
-about: A bug has been found with Extensions.
+about: Report a bug with Twitch Extensions.
 title: ''
 labels: 'product: extensions'
 assignees: ''

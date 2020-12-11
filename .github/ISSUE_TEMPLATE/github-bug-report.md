@@ -1,6 +1,6 @@
 ---
 name: GitHub Example Issue Report
-about: An issue or feedback for a specific GitHub example in the TwitchDev organization.
+about: Report a bug or suggestion for examples in the TwitchDev GitHub organization.
 title: ''
 labels: 'product: github examples'
 assignees: ''

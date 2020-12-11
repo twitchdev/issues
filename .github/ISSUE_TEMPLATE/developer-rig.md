@@ -1,6 +1,6 @@
 ---
-name: Developer Rig Bug Report
-about: A bug has been found in the Developer Rig for helping develop extensions.
+name: Developer Rig
+about: Report a bug related to the Developer Rig used for Extension development.
 title: ''
 labels: 'product: developer rig'
 assignees: ''

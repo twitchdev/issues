@@ -1,6 +1,6 @@
 ---
-name: Chat Bug Report
-about: A bug has been found with developer chat features.
+name: Chat and IRC
+about: Report a bug related to third-party chat services.
 title: ''
 labels: 'product: chat'
 assignees: ''

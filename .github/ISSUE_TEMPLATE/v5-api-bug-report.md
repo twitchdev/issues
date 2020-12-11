@@ -1,6 +1,6 @@
 ---
 name: V5 API Bug Report
-about: A bug has been found for API endpoints in the deprecated "v5" namespace.
+about: Report a bug related to API endpoints in the deprecated "v5" namespace.
 title: ''
 labels: 'product: v5'
 assignees: ''

@@ -1,6 +1,6 @@
 ---
-name: Documentation Bug Report
-about: A bug has been found on dev.twitch.tv/docs.
+name: Documentation
+about: Report a bug or mistake on dev.twitch.tv/docs.
 title: ''
 labels: 'product: docs'
 assignees: ''

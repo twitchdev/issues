@@ -1,6 +1,6 @@
 ---
 name: Embed Bug Report
-about: A bug has been found with developer embed features.
+about: Report a bug related to Twitch embeds.
 title: ''
 labels: 'product: embeds'
 assignees: ''

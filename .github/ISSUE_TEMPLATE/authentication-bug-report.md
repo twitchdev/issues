@@ -1,6 +1,6 @@
 ---
-name: Authentication Bug Report
-about: A bug has been found with developer authentication features.
+name: Authentication
+about: Report a bug related to third-party authentication services.
 title: ''
 labels: 'product: authentication'
 assignees: ''

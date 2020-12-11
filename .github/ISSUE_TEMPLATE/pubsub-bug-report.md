@@ -1,6 +1,6 @@
 ---
 name: PubSub Bug Report
-about: A bug has been found for the PubSub Service
+about: Report a bug related to the PubSub service
 title: ''
 labels: 'product: pubsub'
 assignees: ''

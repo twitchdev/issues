@@ -1,8 +1,8 @@
 ---
-name: Helix Bug Report
-about: A bug has been found for the API endpoints in the "helix" namespace.
+name: Twitch API Bug Report
+about: Report a bug related to API endpoints in the "helix" namespace.
 title: ''
-labels: 'product: helix'
+labels: 'product: api'
 assignees: ''
 
 ---
