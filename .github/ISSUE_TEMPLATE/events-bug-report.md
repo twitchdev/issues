@@ -1,8 +1,8 @@
 ---
-name: EventSub or Webhooks
-about: Report a bug related to EventSub or webhooks.
+name: EventSub
+about: Report a bug related to EventSub.
 title: ''
-labels: 'product: eventsub-webhooks'
+labels: 'product: eventsub'
 assignees: ''
 
 ---
