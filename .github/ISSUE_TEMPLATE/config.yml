@@ -3,7 +3,7 @@ contact_links:
   - name: Developer Forums
     url: https://discuss.dev.twitch.tv/
     about: You may wish to check the forums for a similar issue or open discussion before raising a bug report.
-  - name: Twitch Dev Discord
+  - name: TwitchDev Discord
     url: https://link.twitch.tv/devchat
     about: Chat with the developer community on Discord.
   - name: Twitch UserVoice
