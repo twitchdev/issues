@@ -17,10 +17,6 @@ body:
     id: reproduce
     attributes:
       label: How to reproduce
-      placeholder: |
-        1. ...
-        2. ...
-        3. ...
   - type: textarea
     id: behavior
     attributes:
