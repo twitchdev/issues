@@ -1,4 +1,4 @@
-# Third party developer product bug reports (beta)
+# Third party developer product bug reports
 This repository provides a means for third party developers to report bugs – unexpected errors or flaws – related to Twitch developer products such as the API, Extensions, and PubSub. If you would like to report a bug for other Twitch products (e.g. creator dashboard, ads, broken pages), please file a [Twitch Support ticket](https://help.twitch.tv/s/contactsupport).
 
 ## Ask the community
