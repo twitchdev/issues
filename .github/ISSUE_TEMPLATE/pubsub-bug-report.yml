@@ -13,8 +13,6 @@ body:
     id: description
     attributes:
       label: Brief Description
-      description: |
-        Description of what the issue is.
   - type: textarea
     id: reproduce
     attributes:
