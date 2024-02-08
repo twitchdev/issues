@@ -2,14 +2,14 @@
 name: Game Engine Plugins
 about: Report a bug related to the Game Engine Plugins
 title: ''
-labels: 'product: gameengine'
+labels: 'product: game engine plugins'
 assignees: ''
 
 ---
 
 **Brief description**
 
-**Unity/Unreal/Other + Version(s)**
+**Unity/Unreal/Other + version(s)**
 
 **How to reproduce**
 
