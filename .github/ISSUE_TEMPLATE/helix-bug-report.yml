@@ -1,0 +1,39 @@
+name: Twitch API
+description: Report a bug related to API endpoints in the "helix" namespace.
+labels: ["product: api"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide as much information as possible. This will help us resolve the issue quickly and accurately.
+  - type: markdown
+    attributes:
+      value: ---
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief Description
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context or questions
+  - type: checkboxes
+    id: disclaimer
+    attributes:
+      label: Disclaimer
+      description: I have verified that this is not a duplicate issue.
+      options:
+        - label: I agree
+          required: true
