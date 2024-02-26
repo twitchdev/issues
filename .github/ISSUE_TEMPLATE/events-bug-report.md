@@ -1,6 +1,6 @@
 ---
-name: EventSub (Webhooks and WebSockets)
-about: Report a bug related to EventSub or webhooks.
+name: Twitch EventSub
+about: Report a bug related to EventSub the real time data notification system.
 title: ''
 labels: 'product: eventsub'
 assignees: ''
